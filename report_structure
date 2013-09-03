@@ -1,0 +1,11 @@
+PRODUCT - which product the bug report is about
+COMPONENT - which component contains the bug
+
+SUMMARY - short text describing what's the issue, usually used as the name
+          of the report
+DESCRIPTION - longer text to describe exact problem
+VERSION - list of components relevant to the report
+STEPS - steps how to reproduce the issue
+ACTUAL_RESULT - describe what's wrong (this might be very similar to SUMMARY
+                or description
+EXPECTED_RESULT - describe shortly what's the expected result
